@@ -1,0 +1,36 @@
+﻿[19-01-23 13:46:28] info: Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4
+[19-01-23 13:46:28] info: Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4
+[19-01-23 13:46:28] info: CheckForUpdateImpl: Generated new staging user ID: 96c7e2bc-56ff-533c-95d1-46e261c62e1a
+[19-01-23 13:46:28] info: CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4
+[19-01-23 13:46:29] info: FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4&id=GitHubDesktop&localVersion=3.1.4&arch=amd64
+[19-01-23 13:46:30] info: Program: Finished Squirrel Updater
+[19-01-23 13:50:53] info: Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4
+[19-01-23 13:50:53] info: Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4
+[19-01-23 13:50:53] info: CheckForUpdateImpl: Using existing staging user ID: 96c7e2bc-56ff-533c-95d1-46e261c62e1a
+[19-01-23 13:50:53] info: CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4
+[19-01-23 13:50:53] info: FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4&id=GitHubDesktop&localVersion=3.1.4&arch=amd64
+[19-01-23 13:50:54] info: Program: Finished Squirrel Updater
+[19-01-23 13:52:07] info: Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4
+[19-01-23 13:52:07] info: Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4
+[19-01-23 13:52:07] info: CheckForUpdateImpl: Using existing staging user ID: 96c7e2bc-56ff-533c-95d1-46e261c62e1a
+[19-01-23 13:52:07] info: CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4
+[19-01-23 13:52:07] info: FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4&id=GitHubDesktop&localVersion=3.1.4&arch=amd64
+[19-01-23 13:52:08] info: Program: Finished Squirrel Updater
+[20-01-23 10:50:02] info: Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4
+[20-01-23 10:50:02] info: Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4
+[20-01-23 10:50:02] info: CheckForUpdateImpl: Using existing staging user ID: 96c7e2bc-56ff-533c-95d1-46e261c62e1a
+[20-01-23 10:50:02] info: CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4
+[20-01-23 10:50:02] info: FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4&id=GitHubDesktop&localVersion=3.1.4&arch=amd64
+[20-01-23 10:50:04] info: Program: Finished Squirrel Updater
+[20-01-23 20:40:41] info: Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4
+[20-01-23 20:40:41] info: Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4
+[20-01-23 20:40:41] info: CheckForUpdateImpl: Using existing staging user ID: 96c7e2bc-56ff-533c-95d1-46e261c62e1a
+[20-01-23 20:40:41] info: CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4
+[20-01-23 20:40:41] info: FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4&id=GitHubDesktop&localVersion=3.1.4&arch=amd64
+[20-01-23 20:40:43] info: Program: Finished Squirrel Updater
+[20-01-23 20:47:31] info: Program: Starting Squirrel Updater: --checkForUpdate https://central.github.com/api/deployments/desktop/desktop/latest?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4
+[20-01-23 20:47:31] info: Program: Fetching update information, downloading from https://central.github.com/api/deployments/desktop/desktop/latest?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4
+[20-01-23 20:47:31] info: CheckForUpdateImpl: Using existing staging user ID: 96c7e2bc-56ff-533c-95d1-46e261c62e1a
+[20-01-23 20:47:31] info: CheckForUpdateImpl: Downloading RELEASES file from https://central.github.com/api/deployments/desktop/desktop/latest?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4
+[20-01-23 20:47:31] info: FileDownloader: Downloading url: https://central.github.com/api/deployments/desktop/desktop/latest/RELEASES?version=3.1.4&env=production&guid=1283c58a-4512-4cd4-bed3-06b5f12b7fb4&id=GitHubDesktop&localVersion=3.1.4&arch=amd64
+[20-01-23 20:47:34] info: Program: Finished Squirrel Updater
